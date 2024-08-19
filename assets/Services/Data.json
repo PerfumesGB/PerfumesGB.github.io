@@ -1,0 +1,540 @@
+[
+  {
+    "id": 1,
+    "Categoria":"M",
+    "name": "Magnat Exclusive",
+    "description": "Magnat Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/969541-500-auto?v=638592552221470000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 167400
+  },
+  {
+    "id": 2,
+    "Categoria":"M",
+    "name": "Magnat Exclusive 2",
+    "description": "Magnat Exclusive Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/969527-500-auto?v=638592540141470000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 167400
+  },
+  {
+    "id": 3,
+    "Categoria":"M",
+    "name": "Magnat Select",
+    "description": "Magnat Select Perfume de Hombre Edición Especial, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/967600-500-auto?v=638574576211070000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 158100
+  },
+  {
+    "id": 4,
+    "Categoria":"M",
+    "name": "Pulso Absolute",
+    "description": "Pulso Absolute Perfume de Hombre Edición Limitada, 100 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/967400-500-auto?v=638569986116600000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 153000
+  },
+  {
+    "id": 5,
+    "Categoria":"M",
+    "name": "Kromo Black",
+    "description": "Kromo Black Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/967102-500-auto?v=638566602155400000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 167400
+  },
+  {
+    "id": 6,
+    "Categoria":"M",
+    "name": "Kromo Fire",
+    "description": "Kromo Fire Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/966882-500-auto?v=638563158153200000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 167400
+  },
+  {
+    "id": 7,
+    "Categoria":"M",
+    "name": "Winner Sport",
+    "description": "Winner Sport Perfume de Hombre, 100 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/937533-500-auto?v=638301420766830000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 124200
+  },
+  {
+    "id": 8,
+    "Categoria":"M",
+    "name": "D'orsay Inspire",
+    "description": "D'orsay Inspire Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/966799-500-auto?v=638562300306170000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 147600
+  },
+  {
+    "id": 9,
+    "Categoria":"M",
+    "name": "Uno",
+    "description": "Uno Perfume para Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/966795-500-auto?v=638562300159700000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 167400
+  },
+  {
+    "id": 10,
+    "Categoria":"M",
+    "name": "Winner Action",
+    "description": "Winner Action Eau de Toilette, 100 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/963012-500-auto?v=638532180297270000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 117000
+  },
+  {
+    "id": 11,
+    "Categoria":"M",
+    "name": "Alpha Perfume",
+    "description": "Alpha Perfume de Hombre, 75 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/960560-500-auto?v=638514924129700000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 124200
+  },
+  {
+    "id": 12,
+    "Categoria":"M",
+    "name": "D'orsay Legacy",
+    "description": "D'orsay Legacy Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/958632-500-auto?v=638497386187500000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 147600
+  },
+  {
+    "id": 13,
+    "Categoria":"M",
+    "name": "Winner Tech",
+    "description": "Winner Tech Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/937527-500-auto?v=638301420606400000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 153000
+  },
+  {
+    "id": 14,
+    "Categoria":"M",
+    "name": "Winner Sport",
+    "description": "Winner Sport Mini Eau de Toilette, 10 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/931934-500-auto?v=638272098133300000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 52000
+  },
+  {
+    "id": 15,
+    "Categoria":"M",
+    "name": "D'orsay Perfume",
+    "description": "D'orsay Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/914216-500-auto?v=638242278610670000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 147600
+  },
+  {
+    "id": 16,
+    "Categoria":"M",
+    "name": "Leyenda Absolute",
+    "description": "Leyenda Absolute Perfume de Hombre, 100 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915759-500-auto?v=638242310967370000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 153000
+  },
+  {
+    "id": 17,
+    "Categoria":"M",
+    "name": "D'orsay Class",
+    "description": "D'orsay Class Perfume de Hombre, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/914274-500-auto?v=638242280155400000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 147600
+  },
+  {
+    "id": 18,
+    "Categoria":"M",
+    "name": "Cardigan Eau",
+    "description": "Cardigan Eau de Toilette, 90 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/913930-500-auto?v=638242206937500000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 123750
+  },
+  {
+    "id": 19,
+    "Categoria":"M",
+    "name": "Vanilla Hombre",
+    "description": "Vanilla Hombre Eau de Toilette, 75 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915627-500-auto?v=638242307748300000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 99000
+  },
+  {
+    "id": 20,
+    "Categoria":"M",
+    "name": "Exus Eau",
+    "description": "Exus Eau de toilette masculino, 100 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/919269-500-auto?v=638242507693630000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 124200
+  },
+  {
+    "id": 21,
+    "Categoria":"M",
+    "name": "Altheus Eau",
+    "description": "Altheus Eau de Toilette, 75 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915568-500-auto?v=638242306708200000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 123750
+  },
+  {
+    "id": 22,
+    "Categoria":"M",
+    "name": "Magnetic Absolute",
+    "description": "Magnetic Absolute Perfume de Hombre, 100 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/919988-500-auto?v=638242560401730000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 153000
+  },
+  {
+    "id": 23,
+    "Categoria":"M",
+    "name": "Pulso Mini",
+    "description": "Pulso Mini",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/917176-500-auto?v=638242467011430000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 52200
+  },
+  {
+    "id": 24,
+    "Categoria":"M",
+    "name": "Intrepid Eau",
+    "description": "Intrepid Eau de Toilette, 75 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/919248-500-auto?v=638242507300700000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 99000
+  },
+  {
+    "id": 25,
+    "Categoria":"M",
+    "name": "Leyenda Mini",
+    "description": "Leyenda Mini",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/916892-500-auto?v=638242462143070000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 52200
+  },
+  {
+    "id": 26,
+    "Categoria":"M",
+    "name": "Magnat Select Mini",
+    "description": "Magnat Select Mini Perfume de Hombre, 10 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915552-500-auto?v=638242306273170000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 52200
+  },
+  {
+    "id": 27,
+    "Categoria":"M",
+    "name": "Exus Eau",
+    "description": "Exus Eau de toilette masculino, 100 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915387-500-auto?v=638242302985230000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 52200
+  },
+  {
+    "id": 28,
+    "Categoria":"M",
+    "name": "Magnat",
+    "description": "Magnat Perfume de Hombre, 10 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915386-500-auto?v=638242302942570000&width=500&height=auto&aspect=true",
+    "Existencia": true,
+    "price": 52200
+  }
+
+
+
+
+  ,{
+    "id": 29,
+    "Categoria":"F",
+    "name": "Vibranza Blanc",
+    "description": "Vibranza Blanc Perfume de Mujer, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/969008-500-auto?v=638587362147300000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 30,
+    "Categoria":"F",
+    "name": "Expression Magic",
+    "description": "Expression Magic Perfume de Mujer, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/967571-500-auto?v=638574570133770000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 108000
+  },
+  {
+    "id": 31,
+    "Categoria":"F",
+    "name": "Vibranza Luminous",
+    "description": "Vibranza Luminous Perfume de Mujer, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/967063-500-auto?v=638566512107470000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 125800
+  },
+  {
+    "id": 32,
+    "Categoria":"F",
+    "name": "Vibranza Addiction",
+    "description": "Vibranza Addiction Perfume de Mujer, 45ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/966627-500-auto?v=638556162374230000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 33,
+    "Categoria":"F",
+    "name": "Vibranza",
+    "description": "Vibranza",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/966438-500-auto?v=638555322155470000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 34,
+    "Categoria":"F",
+    "name": "Dream Eau",
+    "description": "Dream Eau de Parfum de Mujer, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/963257-500-auto?v=638536542129900000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 118800
+  },
+  {
+    "id": 35,
+    "Categoria":"F",
+    "name": "Expression Celebrate",
+    "description": "Expression Celebrate Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/957674-500-auto?v=638489790134670000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 97200
+  },
+  {
+    "id": 36,
+    "Categoria":"F",
+    "name": "Impredecible Mysterious Eau",
+    "description": "Impredecible Mysterious Eau de Parfum​, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/953658-500-auto?v=638455128173470000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 118800
+  },
+  {
+    "id": 37,
+    "Categoria":"F",
+    "name": "Mía Sensual Night",
+    "description": "Mía Sensual Night Perfume de Mujer, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/947473-500-auto?v=638428393971100000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 38,
+    "Categoria":"F",
+    "name": "Mía",
+    "description": "Mía Perfume de Mujer, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/947457-500-auto?v=638428332129200000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 39,
+    "Categoria":"F",
+    "name": "Mía",
+    "description": "Mía Solar Perfume de Mujer, 45ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/947479-500-auto?v=638428394133830000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 40,
+    "Categoria":"F",
+    "name": "Impredecible Eau",
+    "description": "Impredecible Eau de Parfum, 50 ml.",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/914262-500-auto?v=638242279790000000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 118800
+  },
+  {
+    "id": 41,
+    "Categoria":"F",
+    "name": "Vanilla Scent",
+    "description": "Vanilla Scent Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/940529-500-auto?v=638321214155830000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 97200
+  },
+  {
+    "id": 42,
+    "Categoria":"F",
+    "name": "Vibranza Perfume",
+    "description": "Vibranza Perfume de Mujer Edición Especial, 45ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/940553-500-auto?v=638321357607130000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 127800
+  },
+  {
+    "id": 43,
+    "Categoria":"F",
+    "name": "Expression Sens Eau",
+    "description": "Expression Sens Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/940150-500-auto?v=638315982123600000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 97200
+  },
+  {
+    "id": 44,
+    "Categoria":"F",
+    "name": "Expression Eau",
+    "description": "Expression Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/940029-500-auto?v=638315184089930000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 97200
+  },
+  {
+    "id": 45,
+    "Categoria":"F",
+    "name": "Expression Colors Eau",
+    "description": "Expression Colors Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/940028-500-auto?v=638315174298200000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 97200
+  },
+  {
+    "id": 46,
+    "Categoria":"F",
+    "name": "Vibranza Perfume",
+    "description": "Vibranza Perfume de Mujer, 7.5 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/940117-500-auto?v=638315340525330000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 52200
+  },
+  {
+    "id": 47,
+    "Categoria":"F",
+    "name": "You Emotion",
+    "description": "You Emotion",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/931790-500-auto?v=638271330106700000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 97200
+  },
+  {
+    "id": 48,
+    "Categoria":"F",
+    "name": "Impredecible Deep Rosé Eau",
+    "description": "Impredecible Deep Rosé Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/931793-500-auto?v=638271330201200000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 118800
+  },
+  {
+    "id": 49,
+    "Categoria":"F",
+    "name": "L'image",
+    "description": "L'image Perfume de Mujer, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/913355-500-auto?v=638242190155700000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 50,
+    "Categoria":"F",
+    "name": "Red Intense Eau",
+    "description": "Red Intense Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/913909-500-auto?v=638242206600800000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 118800
+  },
+  {
+    "id": 51,
+    "Categoria":"F",
+    "name": "Iluminas Prismatic Eau",
+    "description": "Iluminas Prismatic Eau de Parfum, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915533-500-auto?v=638242305858230000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 100800
+  },
+  {
+    "id": 52,
+    "Categoria":"F",
+    "name": "Red Power",
+    "description": "Red Power Perfume de Mujer, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/920737-500-auto?v=638242577189430000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 156600
+  },
+  {
+    "id": 53,
+    "Categoria":"F",
+    "name": "Momentos Libertad Eau",
+    "description": "Momentos Libertad Eau de Toilette, 50 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/913902-500-auto?v=638242206460030000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 97200
+  },
+  {
+    "id": 54,
+    "Categoria":"F",
+    "name": "émotions LOVE!",
+    "description": "émotions LOVE! Eau de Parfum, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/920769-500-auto?v=638242577702930000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 94500
+  },
+  {
+    "id": 55,
+    "Categoria":"F",
+    "name": "Bela",
+    "description": "Bela Perfume de Mujer, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/914792-500-auto?v=638242291760700000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 133200
+  },
+  {
+    "id": 56,
+    "Categoria":"F",
+    "name": "émotions HAPPY!",
+    "description": "émotions HAPPY! Eau de Parfum, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/919152-500-auto?v=638242505555500000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 94500
+  }
+  ,
+  {
+    "id": 57,
+    "Categoria":"F",
+    "name": "Fiori",
+    "description": "Fiori",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/919267-500-auto?v=638242507616600000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 102150
+  },
+  {
+    "id": 58,
+    "Categoria":"F",
+    "name": "Valentía Eau",
+    "description": "Valentía Eau de Parfum, 45 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/914222-500-auto?v=638242278797800000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 84600
+  },
+  {
+    "id": 59,
+    "Categoria":"F",
+    "name": "Mía",
+    "description": "Mía Perfume de Mujer, 7.5 ml",
+    "imahen":"https://esikacolombia.vtexassets.com/arquivos/ids/915384-500-auto?v=638242302874070000&amp;width=500&amp;height=auto&amp;aspect=true",
+    "Existencia": true,
+    "price": 52200
+  }
+
+
+]
